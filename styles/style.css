@@ -1,0 +1,22 @@
+body {
+    background-color: #eee;
+}
+
+body div.container {
+    background-color: #fff;
+    height: 250px;
+    width: 94%;
+    margin: auto;
+}
+
+.search {
+    width: 70%;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.inp{
+    text-align: center;
+}
+input.search{
+    width: 800px;
+}
